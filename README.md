@@ -103,7 +103,8 @@ Detail of broken links in the doc can be found in the build logs. Select a build
 
 ### 6) Wear OS Smartwatches
 
-[AAPS for Wear OS](https://androidaps.readthedocs.io/en/latest/WearOS/BuildingAapsWearOS.html)
+[AAPS for Wear OS]
+(https://androidaps.readthedocs.io/en/latest/WearOS/BuildingAapsWearOS.html)
 
 [Use the smartwatch](https://androidaps.readthedocs.io/en/latest/WearOS/WearOsSmartwatch.html)
 
